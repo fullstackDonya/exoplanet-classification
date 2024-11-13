@@ -14,3 +14,5 @@
 #classification supervisée et de clustering non supervisé pour prédire des catégories
 #et explorer des patterns cachés dans les données des exoplanètes.
 
+![image](https://github.com/user-attachments/assets/1514006f-5a66-48c8-b281-b77a0673759c)
+
