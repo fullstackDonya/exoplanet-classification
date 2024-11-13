@@ -14,9 +14,11 @@
 #classification supervisée et de clustering non supervisé pour prédire des catégories
 #et explorer des patterns cachés dans les données des exoplanètes.
 
-![image](https://github.com/user-attachments/assets/1514006f-5a66-48c8-b281-
-b77a0673759c)
 
+Modèle d'arbre de décision:
+![image](https://github.com/user-attachments/assets/e81f4637-d865-480b-bad6-52c6fc62da60)
+
+Affichage de la matrice de confusion:
 ![image](https://github.com/user-attachments/assets/d5e0422d-9b02-484c-8788-bd2f9ff9a449)
 
 ![image](https://github.com/user-attachments/assets/c3c114a9-aeab-446b-a767-084f0ffd1b15)
