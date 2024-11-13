@@ -22,4 +22,8 @@ Modèle d'arbre de décision:
 Affichage de la matrice de confusion:
 ![image](https://github.com/user-attachments/assets/d5e0422d-9b02-484c-8788-bd2f9ff9a449)
 
-![image](https://github.com/user-attachments/assets/c3c114a9-aeab-446b-a767-084f0ffd1b15)
+Affichage de la méthode du coude (inertie):
+![image](https://github.com/user-attachments/assets/2f8bdc91-acd1-4f35-9323-f73261117cf7)
+
+Affichage des Silhouette Scores:
+![image](https://github.com/user-attachments/assets/65c90914-7d7d-4f82-9111-c5e04707bd09)
